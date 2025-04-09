@@ -11,4 +11,6 @@
 - usa markdown
 - pone distintos estilos, una cabecera, un link a donde quiera y una imagen.
 
-[Crurso ISMIE Git y Docker] (https://github.com/oscarnovillo/Curso-de-Git-ISMIE/blob/main/practicas/practica3.md)
+**Bibliografía:**[Crurso ISMIE Git y Docker] (https://github.com/oscarnovillo/Curso-de-Git-ISMIE/blob/main/practicas/practica3.md)
+
+![Guia markdown](/assets/git.png)
