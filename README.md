@@ -10,3 +10,5 @@
 2. Crea un fichero README.md en la raiz para poner una descripcion del proyecto
 - usa markdown
 - pone distintos estilos, una cabecera, un link a donde quiera y una imagen.
+
+[Crurso ISMIE Git y Docker] (https://github.com/oscarnovillo/Curso-de-Git-ISMIE/blob/main/practicas/practica3.md)
